@@ -5,10 +5,10 @@ Bookmark This:
 javascript:fetch("https://raw.githubusercontent.com/Greathelloboy/blooket/main/RNG.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
-allows for replacing the questions and rigging the chests/pumpkins by rigging the random number generator through the textbox in the corner
+allows for rigging the random number generator blooket uses through the textbox in the corner
 
 Some rng values (any number between 0 and 1):              
-|RNG Value|Left | Middle | Right
+|Value|Left | Middle | Right
 ----------|------|--------|------|
 |0.1|20||30|40
 |0.2|30|40|50
@@ -22,7 +22,7 @@ Some rng values (any number between 0 and 1):
 
 
 Some rng values for crypto (any number between 0 and 1):
-|RNG Value|Left | Middle | Right
+|Value|Left | Middle | Right
 ----------|------|--------|------|
 |0.1|10|
 |0.2|20|

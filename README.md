@@ -23,7 +23,7 @@ Some rng values (any number between 0 and 1):
 
 Some rng values for crypto (any number between 0 and 1):
 |Value|All |
-----------|------|--------|------|
+----------|------|
 |0.1|10|
 |0.2|20|
 |0.3|30|

@@ -2,7 +2,7 @@
 Bookmark This:
 
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/fishing-frenzy/setWeight.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/Greathelloboy/blooket/main/RNG.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
 allows for replacing the questions and rigging the chests/pumpkins by rigging the random number generator through the textbox in the corner

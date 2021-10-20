@@ -10,7 +10,7 @@ allows for rigging the random number generator blooket uses through the textbox 
 Some rng values (any number between 0 and 1):              
 |Value|Left | Middle | Right
 ----------|------|--------|------|
-|0.1|20||30|40
+|0.1|20|30|40
 |0.2|30|40|50
 |0.3|50|40|100
 |0.4|100|Double Gold/Candy|50
@@ -22,7 +22,7 @@ Some rng values (any number between 0 and 1):
 
 
 Some rng values for crypto (any number between 0 and 1):
-|Value|Left | Middle | Right
+|Value|All
 ----------|------|--------|------|
 |0.1|10|
 |0.2|20|
